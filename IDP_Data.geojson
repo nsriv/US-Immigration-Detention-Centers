@@ -1,0 +1,4247 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.064287,38.797465 ]
+    },
+    "properties": {
+    "id":476,
+    "name":"Alexandria City Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Alexandria Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.835552,35.202187 ]
+    },
+    "properties": {
+    "id":477,
+    "name":"Randall County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"40 (2017)",
+    "management":"Randall County Sheriff (2012)",
+    "demographics":"Adult men, Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.394591,33.747879 ]
+    },
+    "properties": {
+    "id":482,
+    "name":"Atlanta City Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"200 (2017)",
+    "management":"City of Atlanta, Department of Corrections (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.202242,43.020211 ]
+    },
+    "properties": {
+    "id":490,
+    "name":"Buffalo Service Processing Center (Buffalo Federal Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"650 (2017)",
+    "management":"Akima Global Services LLC (2017); U.S. Immigration and Customs Enforcement (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.22985,42.29739 ]
+    },
+    "properties": {
+    "id":492,
+    "name":"Calhoun County Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"125 (2017)",
+    "management":"Calhoun County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4985563,41.4054713 ]
+    },
+    "properties": {
+    "id":495,
+    "name":"Bedford Heights City Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Bedford Heights Police Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.133612,32.844749 ]
+    },
+    "properties": {
+    "id":496,
+    "name":"Bedford Municipal Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Bedford Police Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.270743,43.607925 ]
+    },
+    "properties": {
+    "id":501,
+    "name":"Ada County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2007)",
+    "capacity":"0",
+    "management":"Ada County Sheriff's Office (2007)",
+    "demographics":"Unknown",
+    "z":5,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.069118,42.334228 ]
+    },
+    "properties": {
+    "id":503,
+    "name":"Suffolk County House of Corrections (South Bay)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2008)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2008)",
+    "capacity":"272 (2008)",
+    "management":"Suffolk County Sheriff's Department (2008)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.789354,42.536804 ]
+    },
+    "properties": {
+    "id":510,
+    "name":"Minicassia Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Minidoka County (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.728282,39.036768 ]
+    },
+    "properties": {
+    "id":511,
+    "name":"Boone County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"200 (2017)",
+    "management":"Boone County Sherrif's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.327978,42.837548 ]
+    },
+    "properties": {
+    "id":520,
+    "name":"Natrona County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Natrona County Sheriff (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.6704481,41.9752297 ]
+    },
+    "properties": {
+    "id":522,
+    "name":"Linn County Jail (Linn County Correctional Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"25 (2017)",
+    "management":"Linn County Sheriff (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.282283,32.080318 ]
+    },
+    "properties": {
+    "id":524,
+    "name":"Otero County Processing Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1000 (2017)",
+    "management":"Management and Training Corporation (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8460822,35.2272302 ]
+    },
+    "properties": {
+    "id":527,
+    "name":"Mecklenburg County Jail Central (Mecklenburg County Detention centre North)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"614 (2012)",
+    "management":"Mecklenburg County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.746198,27.980788 ]
+    },
+    "properties": {
+    "id":533,
+    "name":"Pinellas County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Pinellas County Sheriffs Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.15236,31.70834 ]
+    },
+    "properties": {
+    "id":538,
+    "name":"LaSalle ICE Processing Center (Prev. LaSalle ICE Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2007)",
+    "capacity":"0",
+    "management":"Lasalle County Sheriff (2007)",
+    "demographics":"Unknown",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.859124,41.2892886 ]
+    },
+    "properties": {
+    "id":539,
+    "name":"Pottawattamie County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"10 (2017)",
+    "management":"Pottawattamie County Sheriff (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3764047,30.1958905 ]
+    },
+    "properties": {
+    "id":540,
+    "name":"Wakulla County Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Wakulla County Sheriff's Department (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.995553,41.665956 ]
+    },
+    "properties": {
+    "id":542,
+    "name":"Bristol County House of Corrections (Bristol County Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"272 (2008)",
+    "management":"Bristol County Sherrif's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1975772,42.3154416 ]
+    },
+    "properties": {
+    "id":543,
+    "name":"Dearborn Police Department",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Dearborn Police Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.847885,29.373355 ]
+    },
+    "properties": {
+    "id":545,
+    "name":"Val Verde Correctional Facility (Val Verde Detention centre)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1451 (2009)",
+    "management":"GEO Group, Inc. (2012)",
+    "demographics":"Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.620309,41.588822 ]
+    },
+    "properties": {
+    "id":547,
+    "name":"Polk County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"60 (2017)",
+    "management":"Polk County Sheriff (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.94044,43.218669 ]
+    },
+    "properties": {
+    "id":550,
+    "name":"Strafford County House of Corrections",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Strafford County Department of Corrections (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7088117,40.4866439 ]
+    },
+    "properties": {
+    "id":552,
+    "name":"Cambria County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"15 (2017)",
+    "management":"Cambria County (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.858222,37.817438 ]
+    },
+    "properties": {
+    "id":555,
+    "name":"Butler County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"25 (2017)",
+    "management":"Butler County Sheriff (2012)",
+    "demographics":"Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3686822,31.7934058 ]
+    },
+    "properties": {
+    "id":556,
+    "name":"El Paso Processing Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"800 (2009)",
+    "management":"U.S. Immigration and Customs Enforcement (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.097355,42.360304 ]
+    },
+    "properties": {
+    "id":560,
+    "name":"Hardin County Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Hardin County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.281046,42.037252 ]
+    },
+    "properties": {
+    "id":561,
+    "name":"Elgin Police Department",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Elgin Police Department (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1879872,40.6664037 ]
+    },
+    "properties": {
+    "id":562,
+    "name":"Elizabeth Contract Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"304 (2017)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.619807,45.304833 ]
+    },
+    "properties": {
+    "id":563,
+    "name":"Sherburne County Jail Services (Prev. Serburne County Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"120 (2017)",
+    "management":"Sherburne County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5486995,32.8212844 ]
+    },
+    "properties": {
+    "id":564,
+    "name":"Eloy Detention Center (Eloy Federal Contract Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1550 (2017)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.066541,42.123739 ]
+    },
+    "properties": {
+    "id":565,
+    "name":"Erie County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"5 (2017)",
+    "management":"Erie Count Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.055442,34.75902 ]
+    },
+    "properties": {
+    "id":566,
+    "name":"Torrance County Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"300 (2017)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.082575,32.851866 ]
+    },
+    "properties": {
+    "id":567,
+    "name":"Euless City Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"City of Euless, Police Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.126658,27.248089 ]
+    },
+    "properties": {
+    "id":569,
+    "name":"Brooks County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2007)",
+    "capacity":"200 (2017)",
+    "management":"GEO Group (2017); Brooks County Sheriff's Office (2007)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3704369,33.0393449 ]
+    },
+    "properties": {
+    "id":575,
+    "name":"Florence Correctional Center (CCA)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1824 (2008)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.376629,33.043742 ]
+    },
+    "properties": {
+    "id":576,
+    "name":"Central Arizona Detention Center (Central Arizona Correctional Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"2304 (2008)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3790486,33.062333 ]
+    },
+    "properties": {
+    "id":577,
+    "name":"Florence Service Processing Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"392 (2017)",
+    "management":"U.S. Immigration and Customs Enforcement (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.413595,39.365647 ]
+    },
+    "properties": {
+    "id":581,
+    "name":"Frederick County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Frederick County Sheriff (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.285695,40.268819 ]
+    },
+    "properties": {
+    "id":582,
+    "name":"Monmouth County Correctional Institution",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Monmouth County Sheriff^s Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.351781,31.553771 ]
+    },
+    "properties": {
+    "id":584,
+    "name":"Sebastian County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"20 (2017)",
+    "management":"Sebastian County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.0118963,34.0158055 ]
+    },
+    "properties": {
+    "id":586,
+    "name":"Etowah County Jail (Etowah County Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"350 (2017)",
+    "management":"Elowah County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.057559,47.93566 ]
+    },
+    "properties": {
+    "id":594,
+    "name":"Grand Forks County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Grand Forks County (2012)",
+    "demographics":"Unaccompanied minors (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3263275,42.4360661 ]
+    },
+    "properties": {
+    "id":596,
+    "name":"Josephine County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"31 (2016)",
+    "management":"Josephine County Sheriff's Department (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.306019,47.506453 ]
+    },
+    "properties": {
+    "id":597,
+    "name":"Cascade County Jail (Montana)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"35 (2018)",
+    "management":"Cascade County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.039065,40.873915 ]
+    },
+    "properties": {
+    "id":600,
+    "name":"Bergen County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"128 (2017)",
+    "management":"Bergen County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.876469,38.439278 ]
+    },
+    "properties": {
+    "id":604,
+    "name":"Rockingham County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Rockingham County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.721811,33.177154 ]
+    },
+    "properties": {
+    "id":606,
+    "name":"Rolling Plains Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"525 (2017)",
+    "management":"LaSalle Southwest Corrections (2017); Emerald Companies (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.370401,40.439561 ]
+    },
+    "properties": {
+    "id":607,
+    "name":"Phelps County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"20 (2018)",
+    "management":"Phelps County Sheriff (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.312234,29.949751 ]
+    },
+    "properties": {
+    "id":610,
+    "name":"Houston Contract Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1000 (2017)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.35116,37.172849 ]
+    },
+    "properties": {
+    "id":615,
+    "name":"Washington County Jail / Purgatory Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"6 (2017)",
+    "management":"Washington County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.006971,39.773886 ]
+    },
+    "properties": {
+    "id":617,
+    "name":"Marion County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"5 (2017)",
+    "management":"Marion County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.782974,39.169026 ]
+    },
+    "properties": {
+    "id":619,
+    "name":"Howard County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Howard County Department of Corrections (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.704182,43.407841 ]
+    },
+    "properties": {
+    "id":621,
+    "name":"Dodge Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"265 (2017)",
+    "management":"Dodge County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.9095013,28.8830907 ]
+    },
+    "properties": {
+    "id":622,
+    "name":"Karnes County Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"60 (2017)",
+    "management":"The GEO Group, Inc. (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.108398,40.731928528096 ]
+    },
+    "properties": {
+    "id":623,
+    "name":"Hudson County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"476 (2017)",
+    "management":"Hudson County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9150585,42.5946224 ]
+    },
+    "properties": {
+    "id":625,
+    "name":"Kenosha County Detention Center (Kenosha County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"210 (2017)",
+    "management":"Kenosha County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.751621,24.577025 ]
+    },
+    "properties": {
+    "id":626,
+    "name":"Monroe County Detention Center (Monroe County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"72 (2017)",
+    "management":"Monroe County Sheriff's Department (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.0410584,39.6427689 ]
+    },
+    "properties": {
+    "id":627,
+    "name":"Caldwell County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Caldwell County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":5,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.591317,41.311572 ]
+    },
+    "properties": {
+    "id":633,
+    "name":"Albany County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2007)",
+    "capacity":"14 (2017)",
+    "management":"Lt. Ben Fritzen, Jail Administrator, Albany County Sheriff's Office (2018); Albany County Sheriff's Office (2007)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.4543221,27.5288357 ]
+    },
+    "properties": {
+    "id":634,
+    "name":"Laredo Detention Center (Laredo Processing Center / Laredo Contract Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"400 (2017)",
+    "management":"Corrections Corporation of America (CCA) (2017); Corrections Corporation of America (2012); Immigration and Customs Enforcement (2012)",
+    "demographics":"Adult women (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0115308,40.3831334 ]
+    },
+    "properties": {
+    "id":638,
+    "name":"Berks County Family Residential Center (Formerly Berks Family Shelter)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"84 (2007)",
+    "management":"U.S. Immigration and Customs Enforcement Bureau (2012)",
+    "demographics":"Adult women, Adult men, Accompanied minors, Families (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.610517,33.634521 ]
+    },
+    "properties": {
+    "id":641,
+    "name":"Grayson County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"10 (2017)",
+    "management":"Grayson County Jailer (Jason Woosley) (2017)",
+    "demographics":"Adult men, Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.00542,30.697711 ]
+    },
+    "properties": {
+    "id":645,
+    "name":"IAH Secure Adult Detention Facility (Polk County Adult Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1054 (2017)",
+    "management":"Management & Training Corp (M&TC) (2018); Polk County Sheriff's Office (2012); Community Education Centers Inc (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.90004,34.786083 ]
+    },
+    "properties": {
+    "id":647,
+    "name":"Lonoke Police Department (Lonoke Police Department Detention centre)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Lonoke Police Department (2016)",
+    "demographics":"Adult men, Adult women (2016)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.338181,26.155437 ]
+    },
+    "properties": {
+    "id":648,
+    "name":"Port Isabel Service Processing Center (Port Isabel Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1175 (2017)",
+    "management":"Ahtna Technical Services Inc. (2017); Immigration and Customs Enforcement (2012)",
+    "demographics":"Adult women, Adult men (2018)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.771365,32.036817 ]
+    },
+    "properties": {
+    "id":652,
+    "name":"Stewart Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1966 (2017)",
+    "management":"Corrections Corporation of America (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.032355,43.067257 ]
+    },
+    "properties": {
+    "id":654,
+    "name":"Wayne County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"19 (2017)",
+    "management":"Wayne County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.479328,38.75253 ]
+    },
+    "properties": {
+    "id":655,
+    "name":"Prince William County Correctional Facility (Prince William Regional Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Prince William County (2012)",
+    "demographics":"Adult men (2018)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.5865093,39.1405268 ]
+    },
+    "properties": {
+    "id":658,
+    "name":"Yuba County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Yuba County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":5,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.504998,42.254121 ]
+    },
+    "properties": {
+    "id":661,
+    "name":"Chautauqua County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2007)",
+    "capacity":"0",
+    "management":"Chautauqua County Office of the Sheriff (2007)",
+    "demographics":"Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.190689,25.786066 ]
+    },
+    "properties": {
+    "id":664,
+    "name":"Krome North Service Processing Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"611 (2017)",
+    "management":"Akima Global Services LLC (2018); U.S. Immigration and Customs Enforcement (2012); Ahtna Technical Services, Inc. (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0735332,41.3903541 ]
+    },
+    "properties": {
+    "id":669,
+    "name":"Pike County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Pike County Prison Board (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.504715,38.979587 ]
+    },
+    "properties": {
+    "id":670,
+    "name":"Montgomery County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"79 (2007)",
+    "management":"Montgomery County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.124596,26.838687 ]
+    },
+    "properties": {
+    "id":671,
+    "name":"Glades County Detention centre",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"440 (2007)",
+    "management":"Glades County Sheriff's Department (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.993595,41.24056 ]
+    },
+    "properties": {
+    "id":683,
+    "name":"Weber County Correctional Facility (formerly Weber County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2007)",
+    "capacity":"0",
+    "management":"Weber County Sheriff's Office (2007)",
+    "demographics":"Unknown",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.938408,41.253672 ]
+    },
+    "properties": {
+    "id":686,
+    "name":"Douglas County Department of Corrections",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Department of Corrections, Douglas County Nebraska (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.417596,28.473017 ]
+    },
+    "properties": {
+    "id":688,
+    "name":"Orange County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Orange County Sheriff's Department (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.206523,37.015865 ]
+    },
+    "properties": {
+    "id":690,
+    "name":"Christian County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"County (Sheriff) (2017)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.218711,34.722261 ]
+    },
+    "properties": {
+    "id":692,
+    "name":"Garvin County Detention Center (Garvin County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Garvin County Sheriff's Office (2017)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.121265,28.895265 ]
+    },
+    "properties": {
+    "id":693,
+    "name":"South Texas Detention Complex (formerly Pearsall Immigration Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2014)",
+    "capacity":"1890 (2017)",
+    "management":"GEO Group (2014); GEO Group (2012)",
+    "demographics":"Adult men, Adult women, Unaccompanied minors (2014)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.423195,30.789415 ]
+    },
+    "properties": {
+    "id":699,
+    "name":"Pine Prairie ICE Processing Center (Prev. Pine Prairie Correctional Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2007)",
+    "capacity":"700 (2017)",
+    "management":"GEO Group (2017); LCS Correctional Services Inc (2012); LCS Corrections Services (2007)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.467131,44.720422 ]
+    },
+    "properties": {
+    "id":702,
+    "name":"Clinton County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Clinton County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.882905,41.011964 ]
+    },
+    "properties": {
+    "id":703,
+    "name":"Cass County Jail Services",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"50 (2018)",
+    "management":"Cass County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.652009,41.931407 ]
+    },
+    "properties": {
+    "id":704,
+    "name":"Plymouth County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"232 (2008)",
+    "management":"Plymouth County (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.152442,26.277522 ]
+    },
+    "properties": {
+    "id":706,
+    "name":"Broward Transitional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"700 (2017)",
+    "management":"Geo Group (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.281808,43.651307 ]
+    },
+    "properties": {
+    "id":709,
+    "name":"Cumberland County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"70 (2017)",
+    "management":"Cumberland County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.782491,26.481868 ]
+    },
+    "properties": {
+    "id":715,
+    "name":"Willacy County Regional Detention Facility (CI Willacy Country)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2014)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2014)",
+    "capacity":"3086 (2009)",
+    "management":"Management and Training Corporation (2014); Management and Training Corporation (2009)",
+    "demographics":"Adult women, Adult men (2009)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.812821,39.575549 ]
+    },
+    "properties": {
+    "id":716,
+    "name":"Washoe County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"86 (2017)",
+    "management":"Washoe County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5813323,41.5086899 ]
+    },
+    "properties": {
+    "id":722,
+    "name":"Rock Island County Correctional Center (Rock Island County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"20 (2017)",
+    "management":"Rock Island County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4974026,29.4239936 ]
+    },
+    "properties": {
+    "id":727,
+    "name":"Central Texas Detention Facility (formerly Wackenhut Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"688 (2009)",
+    "management":"GEO Group (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.922308,32.589635 ]
+    },
+    "properties": {
+    "id":730,
+    "name":"Otay Mesa Detention Center (formerly San Diego Contract Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2016)",
+    "capacity":"0",
+    "management":"Corrections Corporation of America (2016)",
+    "demographics":"Adult men, Adult women (2016)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8604472,33.7463915 ]
+    },
+    "properties": {
+    "id":738,
+    "name":"Santa Ana City Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"City of Santa Ana (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":6,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.351645,31.166722 ]
+    },
+    "properties": {
+    "id":748,
+    "name":"West Texas Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"450 (2017)",
+    "management":"LaSalle Southwest Corrections (2017); Emerald Companies Inc. (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3750188,38.1719819 ]
+    },
+    "properties": {
+    "id":751,
+    "name":"Worcester County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Worcester County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.659647,40.148982 ]
+    },
+    "properties": {
+    "id":754,
+    "name":"Utah County Jail (Prev. Utah County Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2007)",
+    "capacity":"0",
+    "management":"Utah County Sheriff (2007)",
+    "demographics":"Unknown",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.085818,44.956804 ]
+    },
+    "properties": {
+    "id":761,
+    "name":"Ramsey County Adult Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"15 (2017)",
+    "management":"Ramsey County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4225166,47.2490286 ]
+    },
+    "properties": {
+    "id":766,
+    "name":"Northwest Detention Center (Tacoma Northwest Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2009)",
+    "capacity":"1575 (2017)",
+    "management":"GEO Group Inc (2012); GEO Group (2009)",
+    "demographics":"Adult men, Adult women (2018)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.418863,30.5664267 ]
+    },
+    "properties": {
+    "id":768,
+    "name":"T. Don Hutto Residential Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2008)",
+    "capacity":"490 (2008)",
+    "management":"Corrections Corporation of America (2012); Corrections Corporation of America (2008)",
+    "demographics":"Adult women, Adult men, Accompanied minors (2008)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.012051,33.450922 ]
+    },
+    "properties": {
+    "id":770,
+    "name":"Miller County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"13 (2017)",
+    "management":"Miller County Sheriff's Department (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2001752,45.6122844 ]
+    },
+    "properties": {
+    "id":771,
+    "name":"Northern Oregon Correction Facility (NORCOR)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"212 (2007)",
+    "management":"Oregon State Police (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":6,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2003673,45.6121582 ]
+    },
+    "properties": {
+    "id":772,
+    "name":"Northern Oregon Regional Juvenile Facility (NORCOR Juvenile Detention)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Gilliam, Hood River, Sherman and Wasco counties (2012)",
+    "demographics":"Unaccompanied minors (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.152602,41.080268 ]
+    },
+    "properties": {
+    "id":773,
+    "name":"Seneca County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Seneca County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.681523,39.047422 ]
+    },
+    "properties": {
+    "id":774,
+    "name":"Shawnee County Department of Corrections (Shawnee County Adult Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Shawnee County Department of Corrections (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1739547,37.2720801 ]
+    },
+    "properties": {
+    "id":779,
+    "name":"Pulaski County Detention Center (formerly Tri-County Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"226 (2009)",
+    "management":"Pulaski County Sheriff's Office (2017); GEO Group (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.440816,42.340741 ]
+    },
+    "properties": {
+    "id":797,
+    "name":"McHenry County Adult Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"250 (2017)",
+    "management":"McHenry County Sheriff (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.602951,43.627441 ]
+    },
+    "properties": {
+    "id":798,
+    "name":"Nobles County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Nobles County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6638234,39.9872935 ]
+    },
+    "properties": {
+    "id":799,
+    "name":"York County Prison",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"800 (2017)",
+    "management":"York County Department of Prisons (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6265917,41.1289138 ]
+    },
+    "properties": {
+    "id":800,
+    "name":"Northeast Ohio Correctional Center (CCA Northeast Ohio Corrections/Youngstown CDF))",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2007)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2007)",
+    "capacity":"984 (2018)",
+    "management":"CCA (2012); Corrections Corporation of America (2007)",
+    "demographics":"Adult men (2007)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.152473,31.708622 ]
+    },
+    "properties": {
+    "id":860,
+    "name":"Jena/LaSalle Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"1160 (2007)",
+    "management":"GEO Group (2017); Geo Group (2012); U.S. Immigration and Customs Enforcement (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.100166,19.902655 ]
+    },
+    "properties": {
+    "id":924,
+    "name":"Guantanamo Migrant Operations Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Unknown",
+    "capacity":"130 (2009)",
+    "management":"GEO Group, Inc. (2012)",
+    "demographics":"Adult men, Adult women, Accompanied minors, Families (2012)",
+    "z":14,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.440385,37.319932 ]
+    },
+    "properties": {
+    "id":1258,
+    "name":"Farmville Detention Center (Immigration Centers Of America Farmville)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2014)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2014)",
+    "capacity":"851 (2017)",
+    "management":"Immigration Centers of America (2014)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.699128,33.664079 ]
+    },
+    "properties": {
+    "id":1260,
+    "name":"James A. Musick Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Orange County Sheriff's Department (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.978637,36.031001 ]
+    },
+    "properties": {
+    "id":1261,
+    "name":"Henderson Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"300 (2017)",
+    "management":"City of Henderson Police Deparment (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.999093,36.157434 ]
+    },
+    "properties": {
+    "id":1262,
+    "name":"David L. Moss Criminal Justice Center (Tulsa County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Tulsa County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.278825,32.078703 ]
+    },
+    "properties": {
+    "id":1264,
+    "name":"Otero County Prison Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Management and Training Corporation (M&TC) (2018); County of Otero (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.081434,31.549304 ]
+    },
+    "properties": {
+    "id":1265,
+    "name":"Jack Harwell Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"200 (2017)",
+    "management":"McLennan County (2012); Community Education Centers Inc (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.8398,38.431973 ]
+    },
+    "properties": {
+    "id":1266,
+    "name":"Morgan County Adult Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Morgan County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.772966,34.418114 ]
+    },
+    "properties": {
+    "id":1267,
+    "name":"Dekalb County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"60 (2017)",
+    "management":"Dekalb County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.345602,46.497434 ]
+    },
+    "properties": {
+    "id":1268,
+    "name":"Chippewa County Ssm",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Chippewa County Sheriff (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.778106,38.788839 ]
+    },
+    "properties": {
+    "id":1269,
+    "name":"El Paso County Criminal Justice Center (Prev. El Paso County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"El Paso County Sheriff (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.200227,34.982423 ]
+    },
+    "properties": {
+    "id":1270,
+    "name":"York County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"70 (2017)",
+    "management":"York County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.592864,44.787212 ]
+    },
+    "properties": {
+    "id":1272,
+    "name":"Carver County Jail Services",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Caver County Sheriff's Office (2012)",
+    "demographics":"Unaccompanied minors, Accompanied minors (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.47918,42.942311 ]
+    },
+    "properties": {
+    "id":1273,
+    "name":"St. Clair County Jail (Saint Clair)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Saint Clair County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.059588,42.010457 ]
+    },
+    "properties": {
+    "id":1275,
+    "name":"Marshall County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"35 (2017)",
+    "management":"Marshall County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.538423,38.367117 ]
+    },
+    "properties": {
+    "id":1276,
+    "name":"Chase County Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Chase County Sheriff (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0142492,32.8473173 ]
+    },
+    "properties": {
+    "id":1277,
+    "name":"Charleston County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"256 (2017)",
+    "management":"Charleston County Sheriff (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.35423,28.040951 ]
+    },
+    "properties": {
+    "id":1279,
+    "name":"La Salle County Regional Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"250 (2017)",
+    "management":"La Salle County (2017); United States Marshal Service (2012); Emerald Companies Inc. (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.779449,36.168295 ]
+    },
+    "properties": {
+    "id":1280,
+    "name":"Davidson County Sheriff",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Davidson County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.017186,42.212471 ]
+    },
+    "properties": {
+    "id":1281,
+    "name":"Allegany County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Allegany County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.962509,38.971328 ]
+    },
+    "properties": {
+    "id":1282,
+    "name":"Lincoln County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Lincoln County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.673196,43.136945 ]
+    },
+    "properties": {
+    "id":1285,
+    "name":"Elmore County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"15 (2017)",
+    "management":"Elmore County Sheriff (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.508147,46.604144 ]
+    },
+    "properties": {
+    "id":1286,
+    "name":"Yakima County Department of Corrections",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Yakima Department of Corrections (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8195433,42.751538 ]
+    },
+    "properties": {
+    "id":1287,
+    "name":"Albany County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Albany County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.578973,33.908206 ]
+    },
+    "properties": {
+    "id":1288,
+    "name":"Cobb County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Cobb County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.640586,35.77607 ]
+    },
+    "properties": {
+    "id":1289,
+    "name":"Wake County Sheriff Department",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Wake County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.76367,26.126893 ]
+    },
+    "properties": {
+    "id":1290,
+    "name":"Collier County Naples Jail Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Collier County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.814116,34.240442 ]
+    },
+    "properties": {
+    "id":1291,
+    "name":"Hall County Correctional Institution (Hall County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"510 (2009)",
+    "management":"Hall County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.910887,43.67896 ]
+    },
+    "properties": {
+    "id":1293,
+    "name":"Jefferson County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Jefferson County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.251004,33.978538 ]
+    },
+    "properties": {
+    "id":1294,
+    "name":"Lexington County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"28 (2017)",
+    "management":"Lexington County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.97994,34.793719 ]
+    },
+    "properties": {
+    "id":1295,
+    "name":"Whitfield County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Whitfield County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.71023,38.311013 ]
+    },
+    "properties": {
+    "id":1296,
+    "name":"South Central Regional Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"5 (2017)",
+    "management":"West Virginia Regional Jail & Correctional Facility Authority (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.419552,42.41598 ]
+    },
+    "properties": {
+    "id":1297,
+    "name":"Dakota County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"20 (2017)",
+    "management":"Dakota County Sheriff's Office (2012)",
+    "demographics":"Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.857734,61.218419 ]
+    },
+    "properties": {
+    "id":1298,
+    "name":"Anchorage Correctional Complex",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"State of Alaska Department of Corrections (2012)",
+    "demographics":"Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.558814,40.506914 ]
+    },
+    "properties": {
+    "id":1300,
+    "name":"Moffat County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Moffat County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.151338,38.943099 ]
+    },
+    "properties": {
+    "id":1301,
+    "name":"Teller County Detention Center (Prev. Teller County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Teller County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.77951,39.360925 ]
+    },
+    "properties": {
+    "id":1309,
+    "name":"Platte County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"154 (2012)",
+    "management":"Platte County Sheriff's Office (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.794739,33.632247 ]
+    },
+    "properties": {
+    "id":1312,
+    "name":"Lubbock County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"15 (2016)",
+    "management":"Lubbock County Sheriff's Office (2012)",
+    "demographics":"Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.221593,44.07874 ]
+    },
+    "properties": {
+    "id":1313,
+    "name":"Pennington County Jail (South Dakota)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"5 (2017)",
+    "management":"Pennington County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2428281,36.0963858 ]
+    },
+    "properties": {
+    "id":1323,
+    "name":"Forsyth County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Forsyth County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.774324,32.498526 ]
+    },
+    "properties": {
+    "id":1332,
+    "name":"San Luis Regional Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"400 (2017)",
+    "management":"LaSalle Southwest Corrections (2018); Emerald Correctional Management (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.613835,42.595876 ]
+    },
+    "properties": {
+    "id":1335,
+    "name":"Franklin County House Of Correction",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"90 (2017)",
+    "management":"Franklin County Sheriff's Office (2012)",
+    "demographics":"Adult women, Adult men (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.29778,32.381728 ]
+    },
+    "properties": {
+    "id":1336,
+    "name":"Montgomery City Jail (MNTGMAL)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"City of Montgomery (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.247613,30.742761 ]
+    },
+    "properties": {
+    "id":1339,
+    "name":"Burnet County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Burnet County Sheriff’s Office (2012)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.39335,41.896216 ]
+    },
+    "properties": {
+    "id":1346,
+    "name":"Monroe County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"Monroe County Sheriff's Office (2012)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.284573,34.148588 ]
+    },
+    "properties": {
+    "id":1347,
+    "name":"La Paz County Adult Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2012)",
+    "capacity":"0",
+    "management":"La Paz County Sheriff’s Office (2012)",
+    "demographics":"Adult men, Adult women (2016)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.121472,30.295805 ]
+    },
+    "properties": {
+    "id":1399,
+    "name":"Baker County Sheriff's Office (Baker County Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Baker County Sheriff's Office (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.774833,30.885329 ]
+    },
+    "properties": {
+    "id":1405,
+    "name":"Baldwin County Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Baldwin County Sheriff's Office (2018)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.555891,39.388413 ]
+    },
+    "properties": {
+    "id":1418,
+    "name":"Butler County Correctional Complex (Formerly Butler Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Butler County Sheriff's Office (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.754712,27.736648 ]
+    },
+    "properties": {
+    "id":1425,
+    "name":"Coastal Bend Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Unknown",
+    "capacity":"0",
+    "management":"The GEO Group, Inc. (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.349703,41.151049 ]
+    },
+    "properties": {
+    "id":1428,
+    "name":"Clinton County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2012)",
+    "capacity":"50 (2017)",
+    "management":"Clinton County Government (2012)",
+    "demographics":"Adult men, Adult women (2012)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.353878,37.995391 ]
+    },
+    "properties": {
+    "id":1432,
+    "name":"Contra Costa County Jail West (Contra Costa West Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Unknown",
+    "capacity":"0",
+    "management":"Unknown",
+    "demographics":"Unknown",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.128628,40.718159 ]
+    },
+    "properties": {
+    "id":1438,
+    "name":"Delaney Hall Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Unknown",
+    "capacity":"0",
+    "management":"Unknown",
+    "demographics":"Unknown",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.849776,39.759656 ]
+    },
+    "properties": {
+    "id":1439,
+    "name":"Denver Contract Detention Facility (Aurora Detention Facility)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2014)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2014)",
+    "capacity":"928 (2017)",
+    "management":"Geo Group (2014)",
+    "demographics":"Adult women, Adult women, Adult men (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.91857,26.296303 ]
+    },
+    "properties": {
+    "id":1445,
+    "name":"East Hidalgo Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"100 (2017)",
+    "management":"GEO Group (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.127248,40.721333 ]
+    },
+    "properties": {
+    "id":1447,
+    "name":"Essex County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"800 (2018)",
+    "management":"Essex Corrections Department (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.368148,43.645963 ]
+    },
+    "properties": {
+    "id":1452,
+    "name":"Freeborn County Jail Services (Freeborn County Adult Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Freeborn County Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.191598,41.50484 ]
+    },
+    "properties": {
+    "id":1454,
+    "name":"Geauga County Safety Center (Geauga County Jail)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"30 (2017)",
+    "management":"Geauga County Sheriff's Office (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.328978,40.926459 ]
+    },
+    "properties": {
+    "id":1456,
+    "name":"Hall County Department of Corrections",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Hall County Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.252962,31.578145 ]
+    },
+    "properties": {
+    "id":1463,
+    "name":"Irwin County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"512 (2017)",
+    "management":"Lasalle Corrections (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.902384,38.314534 ]
+    },
+    "properties": {
+    "id":1466,
+    "name":"Jefferson County Justice Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Unknown",
+    "status":"In use (2018)",
+    "security_regime":"Unknown",
+    "capacity":"0",
+    "management":"Unknown",
+    "demographics":"Unknown",
+    "z":12,
+    "t":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.447994,30.335717 ]
+    },
+    "properties": {
+    "id":1467,
+    "name":"Joe Corley Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"1050 (2017)",
+    "management":"Geo Group (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38904,32.372041 ]
+    },
+    "properties": {
+    "id":1468,
+    "name":"Johnson County Law Enforcement Center (Johnson County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Unknown",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.911779,28.883418 ]
+    },
+    "properties": {
+    "id":1470,
+    "name":"Karnes County Residential Center (formerly Karnes County Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2014)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2014)",
+    "capacity":"1158 (2015)",
+    "management":"Geo Group (2014)",
+    "demographics":"Accompanied minors, Families (2014)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.806693,40.560025 ]
+    },
+    "properties": {
+    "id":1497,
+    "name":"Morrow County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Morrow County Sheriff's Office (2017)",
+    "demographics":"Adult women, Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.895729,34.327174 ]
+    },
+    "properties": {
+    "id":1500,
+    "name":"New Hanover County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"New Hanover Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.132274,44.850402 ]
+    },
+    "properties": {
+    "id":1503,
+    "name":"Northwest State Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Franklin County Corrections Dpt (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.358596,41.405459 ]
+    },
+    "properties": {
+    "id":1505,
+    "name":"Orange County Correctional Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Orange County Corrections Department (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.946603,37.271213 ]
+    },
+    "properties": {
+    "id":1529,
+    "name":"Roanoke City Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"City of Roanoke Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.106598,30.492611 ]
+    },
+    "properties": {
+    "id":1533,
+    "name":"Saint Tammany Parish Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Saint Tammany Parish Sheriff's Office (2018)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.887634,33.781834 ]
+    },
+    "properties": {
+    "id":1558,
+    "name":"Theo Lacy Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2012)",
+    "status":"In use (2018)",
+    "security_regime":"High security (2018)",
+    "capacity":"472 (2017)",
+    "management":"Orange County Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.54846,35.407494 ]
+    },
+    "properties": {
+    "id":1572,
+    "name":"Western Tennessee Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2014)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2014)",
+    "capacity":"20 (2017)",
+    "management":"Corrections Corporation of America (2014)",
+    "demographics":"Adult men (2014)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.438754,34.560789 ]
+    },
+    "properties": {
+    "id":1574,
+    "name":"Adelanto ICE Processing Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2017)",
+    "status":"In use (2018)",
+    "security_regime":"High security (2017)",
+    "capacity":"1940 (2017)",
+    "management":"GEO Group (2018)",
+    "demographics":"Adult women, Adult men (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.11904,39.523721 ]
+    },
+    "properties": {
+    "id":1577,
+    "name":"Clay County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Unknown",
+    "status":"In use (2018)",
+    "security_regime":"Unknown",
+    "capacity":"0",
+    "management":"County (Sheriff) (2017)",
+    "demographics":"Unknown",
+    "z":12,
+    "t":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.200146,28.65822 ]
+    },
+    "properties": {
+    "id":1845,
+    "name":"South Texas Family Residential Centre",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2015)",
+    "status":"In use (2018)",
+    "security_regime":"Unknown",
+    "capacity":"2400 (2016)",
+    "management":"Corrections Corporation America (CCA) (2015)",
+    "demographics":"Accompanied minors, Families, Adult women (2016)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.421476,38.306336 ]
+    },
+    "properties": {
+    "id":1921,
+    "name":"Rio Cosumnes Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2016)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2016)",
+    "capacity":"0",
+    "management":"Sacramento County Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.006462,35.379839 ]
+    },
+    "properties": {
+    "id":2055,
+    "name":"Mesa Verde Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"400 (2017)",
+    "management":"The City of McFarland (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.603145,37.216635 ]
+    },
+    "properties": {
+    "id":2056,
+    "name":"Virginia Peninsula Regional Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Virginia Peninsula Regional Jail Office (2017); Virginia Peninsula Regional Jail Office (2017); Virginia Peninsula Regional Jail Office (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.977017,36.252942 ]
+    },
+    "properties": {
+    "id":2057,
+    "name":"Nevada Southern Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2018)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"250 (2017)",
+    "management":"Unknown",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.489663,27.377668 ]
+    },
+    "properties": {
+    "id":2058,
+    "name":"Rio Grande Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"672 (2017)",
+    "management":"The GEO Group, Inc. (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.397033,32.690782 ]
+    },
+    "properties": {
+    "id":2059,
+    "name":"Imperial Regional Detention Facility",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"704 (2017)",
+    "management":"Management and Training Corporation (MTC) (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.196539,32.419535 ]
+    },
+    "properties": {
+    "id":2060,
+    "name":"Prairieland Detention Center (PDC)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"707 (2017)",
+    "management":"LaSalle Southwest Corrections (2017); Emerald Correctional Management LLC (2017)",
+    "demographics":"Adult men, Adult women, LGBTI persons (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.77493,30.62256 ]
+    },
+    "properties": {
+    "id":2062,
+    "name":"Allen Parish Public Safety Complex",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Allen County Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.907371,35.17997 ]
+    },
+    "properties": {
+    "id":2063,
+    "name":"Cibola County Correctional Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2017)",
+    "capacity":"1116 (2017)",
+    "management":"Corrections Corporation of America (CCA) (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.514128,39.902872 ]
+    },
+    "properties": {
+    "id":2064,
+    "name":"Delaware County Jail (George W. Hill)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Community Education Centers (CEC) until 2017, when the GEO Group, Inc. acquired CEC. (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.545097,38.066084 ]
+    },
+    "properties": {
+    "id":2065,
+    "name":"Fayette County Detention Center",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"County (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.981449,30.871562 ]
+    },
+    "properties": {
+    "id":2066,
+    "name":"Folkston ICE Processing Center (D. Ray James)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"780 (2017)",
+    "management":"The GEO Group, Inc. (2017)",
+    "demographics":"Adult men, Adult men, Adult women (2017)",
+    "z":12,
+    "t":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.85813,41.075656 ]
+    },
+    "properties": {
+    "id":2067,
+    "name":"Kankakee County Jail (Jerome Combs Detention Center)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Kankakee County Sheriff's Office (2017)",
+    "demographics":"Adult men (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.379959,38.40802 ]
+    },
+    "properties": {
+    "id":2068,
+    "name":"Oldham County Jail",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"Oldham County Jailer's Office (2018)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.489889,27.369922 ]
+    },
+    "properties": {
+    "id":2071,
+    "name":"Webb County Detention Center (CCA)",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Criminal (2017)",
+    "status":"In use (2017)",
+    "security_regime":"Secure (2017)",
+    "capacity":"0",
+    "management":"CCA, Inc. (2017)",
+    "demographics":"Adult men, Adult women (2017)",
+    "z":12,
+    "t":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.424012,25.942668 ]
+    },
+    "properties": {
+    "id":2134,
+    "name":"Southwest Keys Immigrant Children Shelter [Converted Walmart Store]",
+    "country":"United States",
+    "region":"Americas",
+    "typology":"Administrative (2018)",
+    "status":"In use (2018)",
+    "security_regime":"Secure (2018)",
+    "capacity":"0",
+    "management":"Southwest Keys (2018)",
+    "demographics":"Unaccompanied minors (2018)",
+    "z":14,
+    "t":1
+    }
+  }
+]
+}
